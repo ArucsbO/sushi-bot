@@ -1,0 +1,24 @@
+{
+  "name": "flowey-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for the Obscura Server",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArucsbO/flowey-bot.git"
+  },
+  "author": "ArucsbO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArucsbO/flowey-bot/issues"
+  },
+  "homepage": "https://github.com/ArucsbO/flowey-bot#readme"
+}
