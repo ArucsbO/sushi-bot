@@ -13,3 +13,9 @@ client.on('message', message => {
 		message.channel.send('Pong!');
 	}
 });
+/*
+Things to add are:
+	.Question Submission Panel
+	.Wiki Scraper
+	.Reminder
+*/
